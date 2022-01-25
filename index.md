@@ -2,7 +2,7 @@
 
 
 ### Instructors
-Ivan Sysoev, Safinah Ali
+[Ivan Sysoev](mailto:isysoev@mit.edu), [Safinah Ali](mailto:safinah@mit.edu)
 
 
 ### Faculty Sponsor
@@ -30,34 +30,3 @@ There is currently a proliferation of digital tools that support children's lear
 The class will involve two types of sessions. One day a week we will hold theoretical sessions, where we will examine the research and the theory behind various facets of designing for children. Students will be asked to complete readings and prepare discussion questions beforehand. Following jigsaw technique, students will also be asked to pick some readings and make presentations to others based on them. Invited speakers will occasionally participate in the theoretical sessions. On a different day of the week, we will hold design studios, where students will work on their projects. We will help students master relevant design and development tools, organize design critiques, meet with stakeholders (children, teachers and parents, COVID situation permitting) and play-test their projects.
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/safinahali/mas-s65/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
