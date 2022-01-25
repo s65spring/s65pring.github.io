@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## MAS.S65 Designing Learning Technology for Children
-
+[Go to syllabus](./syllabus.html)
 
 ### Instructors
 [Ivan Sysoev](mailto:isysoev@mit.edu), [Safinah Ali](mailto:safinah@mit.edu)
