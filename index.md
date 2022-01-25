@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## MAS.S65 Designing Learning Technology for Children
 
 
