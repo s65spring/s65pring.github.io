@@ -54,7 +54,7 @@ Special activity: Write a 1-page reflection about what used to motivate you as a
 
 #### Feb. 22nd - No class (Presidents day)
 
-Feb. 24th -  Learning through Play
+#### Feb. 24th -  Learning through Play
 Play is a great example of intrinsically motivated activity. But what exactly is play? And how can it be employed in service of learning?
 
 ```
