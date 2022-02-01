@@ -13,11 +13,17 @@ Outlining current problems and focus topics, examining successful examples of le
 
 ```
 Readings: none for the first session.
-
-Assignemnt: [Student Project Showcase](https://docs.google.com/presentation/d/1ClIo1VxafLMJGZAm6FbfUkyor6aH7OthTd1KaNELprs/edit?usp=sharing). *Due: 02/03*
 ```
+##### Assignment (*Due: 02/03*): [Student Project Showcase](https://docs.google.com/presentation/d/1ClIo1VxafLMJGZAm6FbfUkyor6aH7OthTd1KaNELprs/edit?usp=sharing) 
+
+***
 
 #### Feb. 3rd - Design Practices I
+
+##### Assignment (*Due: 02/08*):
+
+***
+
 #### Feb. 8th - Design Practices II
 Common heuristics that guide designers. Gathering data to inform the design, getting to know the stakeholders, performing prototyping and iterations on design, performing participatory design. Application of general design heuristics to designing for children.
 
@@ -26,6 +32,8 @@ Readings:
 Alsumait, A., & Al-Osaimi, A. (2009). Usability heuristics evaluation for child e-learning applications. In Proceedings of the 11th international conference on information integration and web-based applications & services
 Special activity: rapid prototyping exercise in class.
 ```
+
+***
 
 #### Feb. 10th - General Considerations when Designing for Children
 In this session, we will look at a few recommendations from the practitioners regarding designing technologies for children. We will also look at the notion of developmental appropriateness. What children normally can do by what age?
@@ -36,6 +44,8 @@ Readings:
 2. Hirsh-Pasek, K., Zosh, J. M., Golinkoff, R. M., Gray, J. H., Robb, M. B., & Kaufman, J. (2015). Putting education in “educational” apps: Lessons from the science of learning.
 3. Excerpts or summary from Copple & Bredekamp (2009). Developmentally appropriate practice in early childhood programs serving children from birth through age 8.
 ```
+
+***
 
 #### Feb. 15th -  Intrinsic and extrinsic motivation
 Motivating children is essential for their participation in learning experiences. Often designers resort to extrinsic motivation. How efficient is it? What are its limitations? How can we create intrinsic motivation for children to interact with learning technology?
@@ -52,9 +62,15 @@ Readings:
 Special activity: Write a 1-page reflection about what used to motivate you as a child. The reflections will be in a shared Google Slides document, so that students can see each other's ideas. Discuss in class.
 ```
 
+***
+
 #### Feb. 17th - Design studio
 
+***
+
 #### Feb. 22nd - No class (Presidents day)
+
+***
 
 #### Feb. 24th -  Learning through Play
 Play is a great example of intrinsically motivated activity. But what exactly is play? And how can it be employed in service of learning?
@@ -68,6 +84,8 @@ Readings:
 Special activity: Write a 1-page reflection (in a Google Slides document) about what was a bright example of play in your life. Did you learn anything from it? Discuss in class.
 ```
 
+***
+
 #### March 1st - Learning Games
 When we think about play, we often think about games. Is designing an educational game similar to "gamification" of a learning experience? If not, what does it involve?
 
@@ -80,8 +98,11 @@ Klopfer et. al. (2018). Resonant games: Design principles for learning games tha
 ```
 Special activity: Different students sign up for different chapters of the Resonant games. Present to each other in class. Prepare questions for Eric.
 ```
+***
 
 #### March 3rd - Design Studio
+
+***
 
 #### March 8th - Scaffolding
 In the previous sections, we had a look at exploratory and child-motivated learning. However, in its unguided form, such learning is limited. Here, we examine how learning can be supported without turning it into an overly structured, drill-like activity.
@@ -97,7 +118,11 @@ Readings:
 Bonus question: Children seem to learn to speak on their own, without the need for teaching. Why can't they learn everything like that? Or can they?
 ```
 
+***
+
 #### March 10th - Design Studio
+
+***
 
 #### March 15th -  Learning Behaviors: Self-Regulation
 Certain behaviors can strongly affect both how children learn and how they interact with technology. Can these behaviors be developed? Can technology help? Can it be harmful? In this session, we will look at self-regulation.
@@ -109,7 +134,11 @@ Readings:
 3. Antle, A. N., Chesick, L., Levisohn, A., Sridharan, S. K., & Tan, P. (2015, June). Using neurofeedback to teach self-regulation to children living in poverty. International Conference on Interaction Design and Children
 ```
 
+***
+
 #### March 17th - Design Studio
+
+***
 
 #### March 22nd -  Learning Behaviors: Growth Mindset and Curiosity
 Certain behaviors can strongly affect both how children learn and how they interact with technology. Can these behaviors be developed? Can technology help? Can it be harmful? In this session, we will look at growth mindset and curiosity.
@@ -121,7 +150,11 @@ Readings:
 3. Gordon, G., Breazeal, C., & Engel, S. (2015, March). Can children catch curiosity from a social robot? In Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction 
 ```
 
+***
+
 #### March 24th - Design Studio
+
+***
 
 #### March 29th -  Other stakeholders: Parents and Teachers
 So far we only discussed child-technology interactions. However, parents and teachers play vital roles in children's learning process. How can technology account for these stakeholders and support their involvement?
@@ -132,6 +165,7 @@ Readings:
 2. Parish-Morris et. al. (2013) Once upon a time: Parent-child dialogue and storybook reading in the electronic era. Mind, Brain, Educ
 3. B. L. Takeuchi and R. Stevens (2011) The New Coviewing: Designing for Learning through Joint Media Engagement. Joan Ganz Cooney Center
 ```
+***
 
 #### Mar. 31st - Design studio
 
@@ -148,8 +182,11 @@ Reich, J. (2020). Failure to disrupt: Why technology alone can't transform educa
 ```
 Special Activity: Different students sign up for different chapters of the book and present them to each other during the class, as well as ask questions to Justin.
 ```
+***
 
 #### Apr. 7th - Design studio
+
+***
 
 #### Apr. 12th - AI for learning
 AI is making rapid advances in the recent decade, and offers interesting opportunities for learning technologies. It can support personalization, one-on-one learning activities, as well as help teachers to make sense of student behaviors. However, there are challenges and ethical considerations to applications of AI in education as well. In this section, we will look at them.
@@ -160,7 +197,11 @@ Readings:
 2. Belpaeme, T., Kennedy, J., Ramachandran, A., Scassellati, B., & Tanaka, F. (2018). Social robots for education: A review. Science robotics
 ```
 
+***
+
 #### Apr. 14th - Design studio
+
+***
 
 #### Apr. 19th - Ethics of technology for children
 Can technology harm children's learning? Can it interfere with other important aspects of childhood (e.g. socialization)? How to develop inclusive and equitable designs? What rights children have, and how technology can account for them?
@@ -180,7 +221,11 @@ How will you communicate your research to children in an accessible way?
 What are some potential harms of your research for children? 
 ```
 
+***
+
 #### Apr. 21st - Design studio
+
+***
 
 #### Apr. 26th - Evaluating designs
 How do we evaluate learning technologies for children? This session will introduce both inspection and empirical evaluation methods commonly used in the field of HCI, e.g., heuristic evaluations, cognitive walkthroughs, observations/ethnograph, usability tests, and controlled experiments. We will cover strengths and weaknesses of different evaluation metrics, such as social-desirability bias for self-reported responses., and how evaluations in learning outcomes, engagement and usability can be conducted.  how children’s sSelf-reports couldand addressing the issue of socially desirable responding answers; qualitative observations; quantitative measures; design-based research paradigm.
@@ -192,6 +237,7 @@ Readings:
 3. Sandoval, William. 2014. “Conjecture Mapping: An Approach to Systematic Educational Design Research.” Journal of the Learning Sciences
 4. Klopfer et. al. (2018). Resonant games: Design principles for learning games that connect hearts, minds, and the everyday. Chapter 8: Measuring Resonant Success
 ```
+***
 
 #### Apr. 28th - Design studio
 
@@ -199,7 +245,11 @@ May 3rd - Buffer class
 This class will be used to go deeper into a topic of students' choice, or an important earlier topic that was for some reason insufficiently covered during previous sessions. 
 Suggested topic: designing for creativity
 
+***
+
 #### May 5th - Design studio
+
+***
 
 #### May 10th - Project presentations
 
