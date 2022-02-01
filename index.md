@@ -34,3 +34,10 @@ There is currently a proliferation of digital tools that support children's lear
 The class will involve two types of sessions. One day a week we will hold theoretical sessions, where we will examine the research and the theory behind various facets of designing for children. Students will be asked to complete readings and prepare discussion questions beforehand. Following jigsaw technique, students will also be asked to pick some readings and make presentations to others based on them. Invited speakers will occasionally participate in the theoretical sessions. On a different day of the week, we will hold design studios, where students will work on their projects. We will help students master relevant design and development tools, organize design critiques, meet with stakeholders (children, teachers and parents, COVID situation permitting) and play-test their projects.
 
 
+### Grading
+
+1. Participation (30%)
+2. Assignments and in-class presentations (30%)
+3. Final projects (40%)
+
+
