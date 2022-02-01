@@ -13,6 +13,8 @@ Outlining current problems and focus topics, examining successful examples of le
 
 ```
 Readings: none for the first session.
+
+Assignemnt: [Student Project Showcase](https://docs.google.com/presentation/d/1ClIo1VxafLMJGZAm6FbfUkyor6aH7OthTd1KaNELprs/edit?usp=sharing). *Due: 02/03*
 ```
 
 #### Feb. 3rd - Design Practices I
