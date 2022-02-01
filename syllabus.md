@@ -14,7 +14,8 @@ Outlining current problems and focus topics, examining successful examples of le
 ```
 Readings: none for the first session.
 ```
-##### Assignment (*Due: 02/03*): [Student Project Showcase](https://docs.google.com/presentation/d/1ClIo1VxafLMJGZAm6FbfUkyor6aH7OthTd1KaNELprs/edit?usp=sharing) 
+##### Assignment (*Due 02/03*): [Student Project Showcase](https://docs.google.com/presentation/d/1ClIo1VxafLMJGZAm6FbfUkyor6aH7OthTd1KaNELprs/edit?usp=sharing)
+##### Sign up sheet for the class: [https://forms.gle/Lhc9fMEDRjBhDCMj9](https://forms.gle/Lhc9fMEDRjBhDCMj9)
 
 ***
 
