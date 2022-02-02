@@ -235,8 +235,9 @@ How do we evaluate learning technologies for children? This session will introdu
 Readings:
 1. Schwarz, Norbert. "Self-reports: How the questions shape the answers." American psychologist 54.2 (1999): 93. 
 2. Lazar, Jonathan, Jinjuan Heidi Feng, and Harry Hochheiser. Research methods in human-computer interaction. Chapter 10: Usability Testing. Morgan Kaufmann, 2017.
-3. Sandoval, William. 2014. “Conjecture Mapping: An Approach to Systematic Educational Design Research.” Journal of the Learning Sciences
-4. Klopfer et. al. (2018). Resonant games: Design principles for learning games that connect hearts, minds, and the everyday. Chapter 8: Measuring Resonant Success
+3. Relkin, E., de Ruiter, L., & Bers, M. U. (2020). TechCheck: Development and validation of an unplugged assessment of computational thinking in early childhood education. Journal of Science Education and Technology, 29, 482-498.
+4. Sandoval, William. 2014. “Conjecture Mapping: An Approach to Systematic Educational Design Research.” Journal of the Learning Sciences
+5. Klopfer et. al. (2018). Resonant games: Design principles for learning games that connect hearts, minds, and the everyday. Chapter 8: Measuring Resonant Success
 ```
 ***
 
