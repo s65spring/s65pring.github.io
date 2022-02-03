@@ -21,13 +21,6 @@ Readings: none for the first session.
 
 #### Feb. 3rd - Design Practices I
 
-##### Assignment (*Due: 02/08*): [Research Question Pitch]()
-Come up with a 2 minute pitch discussing what problem you are interested in addressing and for who. For example, *Massive Open Online Courses (MOOCs) have made learning accessible to students across the globe, however, they are known to have a high drop out rate, and students are not able to complete the courses. I am interested in designing an experience that would be increase student engagement and motivate them to complete their online courses.* 
-- Try not to come up with solutions yet. 
-- Try to focus on who your users are, and what is the problem at hand. 
-- Try to keep it under 2 minutes. 
-- Add your pitch to the slides along with your name. 
-
 ##### Resource: [Universal Methods of Design](https://drive.google.com/file/d/1iSfDKWejNFhhmbnJIfeE0zsYQBtUkl5c/view?usp=sharing)
 
 ***
@@ -39,6 +32,13 @@ Common heuristics that guide designers. Gathering data to inform the design, get
 Readings: 
 Alsumait, A., & Al-Osaimi, A. (2009). Usability heuristics evaluation for child e-learning applications. In Proceedings of the 11th international conference on information integration and web-based applications & services
 ```
+
+##### Assignment (*Due: 02/15*): [Research Question Pitch]()
+Come up with a 2 minute pitch discussing what problem you are interested in addressing and for who. For example, *Massive Open Online Courses (MOOCs) have made learning accessible to students across the globe, however, they are known to have a high drop out rate, and students are not able to complete the courses. I am interested in designing an experience that would be increase student engagement and motivate them to complete their online courses.* 
+- Try not to come up with solutions yet. 
+- Try to focus on who your users are, and what is the problem at hand. 
+- Try to keep it under 2 minutes. 
+- Add your pitch to the slides along with your name. 
 
 ***
 
