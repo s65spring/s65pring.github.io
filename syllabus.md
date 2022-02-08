@@ -20,21 +20,22 @@ Readings: none for the first session.
 ***
 
 #### Feb. 3rd - Design Practices I
+User-centered design, user research methods, personas, interviews, contextual inquiries, affinity diagrams and synthesizing research. 
 
 ##### Resource: [Universal Methods of Design](https://drive.google.com/file/d/1iSfDKWejNFhhmbnJIfeE0zsYQBtUkl5c/view?usp=sharing)
 
 ***
 
 #### Feb. 8th - Design Practices II
-Common heuristics that guide designers. Gathering data to inform the design, getting to know the stakeholders, performing prototyping and iterations on design, performing participatory design. Application of general design heuristics to designing for children.
+Common heuristics that guide designers. Gathering data to inform the design, getting to know the stakeholders, performing prototyping and iterations on design, performing participatory design. Application of general design heuristics to designing for children. Participatory design with children. 
 
 ```
 Readings: 
 Alsumait, A., & Al-Osaimi, A. (2009). Usability heuristics evaluation for child e-learning applications. In Proceedings of the 11th international conference on information integration and web-based applications & services
 ```
 
-##### Assignment (*Due: 02/15*): [Research Question Pitch]()
-Come up with a 2 minute pitch discussing what problem you are interested in addressing and for who. For example, *Massive Open Online Courses (MOOCs) have made learning accessible to students across the globe, however, they are known to have a high drop out rate, and students are not able to complete the courses. I am interested in designing an experience that would be increase student engagement and motivate them to complete their online courses.* 
+##### Assignment (*Due: 02/15*): [Research Question Pitch](https://docs.google.com/presentation/d/1F4igVJE0hlT1lHaZFqIyaUENrEHylCXO77_qVHT0ymE/edit?usp=sharing)
+Come up with a 2 minute pitch discussing what problem or opportunity you are interested in addressing and for who. For example, *Massive Open Online Courses (MOOCs) have made learning accessible to students across the globe, however, they are known to have a high drop out rate, and students are not able to complete the courses. I am interested in designing an experience that would be increase student engagement and motivate them to complete their online courses.* 
 - Try not to come up with solutions yet. 
 - Try to focus on who your users are, and what is the problem at hand. 
 - Try to keep it under 2 minutes. 
