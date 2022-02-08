@@ -16,6 +16,7 @@ Readings: none for the first session.
 ```
 ##### Assignment (*Due 02/03*): [Student Project Showcase](https://docs.google.com/presentation/d/1ClIo1VxafLMJGZAm6FbfUkyor6aH7OthTd1KaNELprs/edit?usp=sharing)
 ##### Sign up sheet for the class: [https://forms.gle/Lhc9fMEDRjBhDCMj9](https://forms.gle/Lhc9fMEDRjBhDCMj9)
+##### [Class Slides](https://docs.google.com/presentation/d/1TxE9hZjnTustl-tGeieXfR9lBx5UQdTxr6nlbPxWvA0/edit?usp=sharing)
 
 ***
 
@@ -23,6 +24,7 @@ Readings: none for the first session.
 User-centered design, user research methods, personas, interviews, contextual inquiries, affinity diagrams and synthesizing research. 
 
 ##### Resource: [Universal Methods of Design](https://drive.google.com/file/d/1iSfDKWejNFhhmbnJIfeE0zsYQBtUkl5c/view?usp=sharing)
+##### [Class Slides](https://docs.google.com/presentation/d/1TxE9hZjnTustl-tGeieXfR9lBx5UQdTxr6nlbPxWvA0/edit?usp=sharing)
 
 ***
 
@@ -40,6 +42,8 @@ Come up with a 2 minute pitch discussing what problem or opportunity you are int
 - Try to focus on who your users are, and what is the problem at hand. 
 - Try to keep it under 2 minutes. 
 - Add your pitch to the slides along with your name. 
+
+##### [Class Slides](https://docs.google.com/presentation/d/1TxE9hZjnTustl-tGeieXfR9lBx5UQdTxr6nlbPxWvA0/edit?usp=sharing)
 
 ***
 
