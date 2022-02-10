@@ -36,7 +36,7 @@ Readings:
 Alsumait, A., & Al-Osaimi, A. (2009). Usability heuristics evaluation for child e-learning applications. In Proceedings of the 11th international conference on information integration and web-based applications & services
 ```
 
-##### Assignment (*Due: 02/15*): [Research Question Pitch](https://docs.google.com/presentation/d/1F4igVJE0hlT1lHaZFqIyaUENrEHylCXO77_qVHT0ymE/edit?usp=sharing)
+##### Assignment (*Due: 02/17*): [Research Question Pitch](https://docs.google.com/presentation/d/1F4igVJE0hlT1lHaZFqIyaUENrEHylCXO77_qVHT0ymE/edit?usp=sharing)
 Come up with a 2 minute pitch discussing what problem or opportunity you are interested in addressing and for who. For example, *Massive Open Online Courses (MOOCs) have made learning accessible to students across the globe, however, they are known to have a high drop out rate, and students are not able to complete the courses. I am interested in designing an experience that would be increase student engagement and motivate them to complete their online courses.* 
 - Try not to come up with solutions yet. 
 - Try to focus on who your users are, and what is the problem at hand. 
@@ -57,6 +57,10 @@ Readings:
 3. Excerpts or summary from Copple & Bredekamp (2009). Developmentally appropriate practice in early childhood programs serving children from birth through age 8.
 ```
 
+##### Assignment (*Due: 02/15):
+1. Think about what motivated you as a child. Write a reflection in the [slides]().
+2. Try DuoLingo (a classic example of gamification). Did it work for you? What did you like and did you not like about the experience?
+
 ***
 
 #### Feb. 15th -  Intrinsic and extrinsic motivation
@@ -64,10 +68,9 @@ Motivating children is essential for their participation in learning experiences
 
 ```
 Readings:
-1. Kyewski, E., & Krämer, N. C. (2018). To gamify or not to gamify? An experimental field study of the influence of badges on motivation, activity, and performance in an online learning course. Computers & Education
-2. Lillard, A. S. (2016). Montessori: The science behind the genius. Chapter 6: Extrinsic rewards and motivation.
-3. Cordova, D. I., & Lepper, M. R. (1996). Intrinsic motivation and the process of learning: Beneficial effects of contextualization, personalization, and choice. Journal of educational psychology
-4. Excerpts from Resnick's Lifelong Kindergarten (2017)
+1. Lillard, A. S. (2016). Montessori: The science behind the genius. Chapter 6: Extrinsic rewards and motivation.
+2. Cordova, D. I., & Lepper, M. R. (1996). Intrinsic motivation and the process of learning: Beneficial effects of contextualization, personalization, and choice. Journal of educational psychology
+3. Excerpts from Resnick's Lifelong Kindergarten (2017)
 ```
 
 ```
