@@ -68,8 +68,8 @@ Readings:
 1. [Lillard, A. S. (2016). Montessori: The science behind the genius. Chapter 6: Extrinsic rewards and motivation.](https://www.dropbox.com/s/apzg6lwwi57shir/lillard-2017-montessori-ch6-extrinsic-rewards-and-motivation.pdf?dl=0)
 2. [Cordova, D. I., & Lepper, M. R. (1996). Intrinsic motivation and the process of learning: Beneficial effects of contextualization, personalization, and choice.](https://www.dropbox.com/s/hjt8wng1gszo96h/cordova-lepper-1996-contextualization-personalization-choice.pdf?dl=0)
 3. Resnick (2017) Lifelong Kindergarten.
-[Chapter 3: Passion](https://www.dropbox.com/s/9myavh2o6gfvzou/resnick-2017-lifelong-kindergarten-ch-3.pdf?dl=0)
-[+ In their own voices](https://www.dropbox.com/s/0l8pasjsbbhmgts/resnick-2017-lifelong-kindergarten-in-their-own-voices.pdf?dl=0)
+[Chapter 3: Passion](https://www.dropbox.com/s/9myavh2o6gfvzou/resnick-2017-lifelong-kindergarten-ch-3.pdf?dl=0) + 
+[In their own voices](https://www.dropbox.com/s/0l8pasjsbbhmgts/resnick-2017-lifelong-kindergarten-in-their-own-voices.pdf?dl=0)
 
 ***
 
