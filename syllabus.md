@@ -138,7 +138,15 @@ Readings:
 
 ***
 
-#### March 22nd -  Learning Behaviors: Growth Mindset and Curiosity
+#### March 22nd - Spring Break
+
+***
+
+#### March 24th - Spring Break
+
+***
+
+#### March 29th -  Learning Behaviors: Growth Mindset and Curiosity
 Certain behaviors can strongly affect both how children learn and how they interact with technology. Can these behaviors be developed? Can technology help? Can it be harmful? In this session, we will look at growth mindset and curiosity.
 
 Readings:
@@ -148,11 +156,7 @@ Readings:
 
 ***
 
-#### March 24th - Design Studio
-
-***
-
-#### March 29th -  Other stakeholders: Parents and Teachers
+#### Date TBD -  Other stakeholders: Parents and Teachers
 So far we only discussed child-technology interactions. However, parents and teachers play vital roles in children's learning process. How can technology account for these stakeholders and support their involvement?
 
 Readings:
