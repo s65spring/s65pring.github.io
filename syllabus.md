@@ -104,6 +104,13 @@ Chapters from [Klopfer et. al. (2018). Resonant games: Design principles for lea
 
 #### March 3rd - Design Studio
 
+Project teams, introduction & background 
+
+##### Assignment (*Due: 03/10*):
+- Share out your teams and what you are working on. No slides necessary. We ask that you fill in [this form](https://forms.gle/eLtBmDeMX5Rf1W1g7) (one per team), so we can keep track of projects: 
+- Our second mini-goal would to be to describe what problem / gap / opportunity you are looking at, and for who. Describe why this problem is important, and support it with background research (data, anecdotes). This is typically what the introduction section of a paper looks like. Add it in the drive folder [“Project Introductions”](https://drive.google.com/drive/folders/1l1YCEFayPQmfTfDyLuLVFxamanX4f2A9?usp=sharing) using the filename TEAMNAME_INTRODUCTION. 
+- Our third mini-goal would be to identify what background research you need to do, and what existing work in the area looks like. For instance, if your project is about making sustainable education fun, your background research would be about sustainability, sustainability education for children, and current technological interventions in the area. Perhaps if you are thinking of a game-based intervention, then a section on serious games would be relevant. So identify your areas of background research, and write up a “Background + Related Work” section for your paper. Add it in the drive folder [“Background”](https://drive.google.com/drive/folders/1l1YCEFayPQmfTfDyLuLVFxamanX4f2A9?usp=sharing) using the filename TEAMNAME_BACKGROUND. 
+
 ***
 
 #### March 8th - Scaffolding
