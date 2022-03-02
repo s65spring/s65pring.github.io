@@ -128,6 +128,8 @@ Bonus question: Children seem to learn to speak on their own, without the need f
 
 #### March 10th - Design Studio
 
+System design, prototyping
+
 ***
 
 #### March 15th -  Learning Behaviors: Self-Regulation
@@ -142,6 +144,8 @@ Readings:
 ***
 
 #### March 17th - Design Studio
+
+Iterative testing & feedback, prototyping
 
 ***
 
