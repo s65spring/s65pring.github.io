@@ -193,16 +193,16 @@ Reich, J. (2020). Failure to disrupt: Why technology alone can't transform educa
 
 ***
 
-#### Apr. 12th - AI for learning
+#### Apr. 12th - No class (Media Lab Member's Event)
+
+***
+
+#### Apr. 14th - AI for learning
 AI is making rapid advances in the recent decade, and offers interesting opportunities for learning technologies. It can support personalization, one-on-one learning activities, as well as help teachers to make sense of student behaviors. However, there are challenges and ethical considerations to applications of AI in education as well. In this section, we will look at them.
 
 Readings: 
 1. [Luckin, R., & Cukurova, M. (2019). Designing educational technologies in the age of AI: A learning sciences‐driven approach. British Journal of Educational Technology](https://www.dropbox.com/s/fso51opckfubz3b/luckin-cukurova-2019-designing-learning-technologies-in-the-age-of-ai.pdf?dl=0)
 2. [Belpaeme, T., Kennedy, J., Ramachandran, A., Scassellati, B., & Tanaka, F. (2018). Social robots for education: A review. Science robotics](https://www.dropbox.com/s/0ae7r9q2jrrontj/belpaeme-et-al-2018-social-robots-for-education-a-review.pdf?dl=0)
-
-***
-
-#### Apr. 14th - Design studio
 
 ***
 
