@@ -242,11 +242,13 @@ Optional:
 
 #### Apr. 28th - Design studio
 
-May 3rd - Buffer class
+#### May 3rd - Buffer class
 This class will be used to go deeper into a topic of students' choice, or an important earlier topic that was for some reason insufficiently covered during previous sessions. 
-Suggested topic: designing for creativity
 
 ***
+
+##### Assignment (*Due: 05/03*):
+- Document the development of your prototype, all the rounds of your user tests, and how the prototype evolved over time. Create a detailed write up ont he final state of the prototype, with a list of all its features. Add a section about future work of where you wish to take this prototype. Add it in the drive folder [“Prototypes blog”](https://drive.google.com/drive/folders/1yKL3MWWf5_w6O-6Tb9rMcXe6EiAQY_4f?usp=sharing) using the filename TEAMNAME_PROTOTYPES. 
 
 #### May 5th - Design studio
 
@@ -254,4 +256,15 @@ Suggested topic: designing for creativity
 
 #### May 10th - Project presentations
 
+***
+
+##### Final project reports (*Hard deadline: 05/10):
+1. In document format (.docx/.pages/.pdf), submit your final project reports in the [Projects Folder](https://drive.google.com/drive/folders/1E4UnXYTTF2Iuz2-YE4-RhW8X85OsyetZ?usp=sharing). Include your supplementary materials, prototypes, videos, testing protocol in the same folder and hyperlink them in the report. 
+###### Sections: 
+1. **Introduction**: Describe your project area, why it is important, summarize your work, and how it contributes to the area
+2. **Background**: Describe the literature in areas releavnt to your project. Example, if your project is about games for sustainability, describe how games help with behavior change, and intervention for promoting sustainability. Also describe other related projects and research attempting similar work. Then, describe how your work is unique and fills the gap in literature. 
+3. **Prototype**: Describe your prototype in its final stage. Give a detail explanation of each feature. 
+Design process: Document the different stages of your design. Begin from the initial brainstorming, to early fidelity prototyping, high fidelityprototyping, and how user tests and background knowledge from readings and related work influenced your design. 
+4. **Evaluation**: What did you learn from evaluating your design with users (or proxy users). 
+5. **Future steps**: Where do you intend to take this work? 
 
