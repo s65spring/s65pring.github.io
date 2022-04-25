@@ -227,7 +227,7 @@ What are some potential harms of your research for children?
 ***
 
 #### Apr. 26th - Evaluating designs
-How do we evaluate learning technologies for children? This session will introduce both inspection and empirical evaluation methods commonly used in the field of HCI, e.g., heuristic evaluations, cognitive walkthroughs, observations/ethnograph, usability tests, and controlled experiments. We will cover strengths and weaknesses of different evaluation metrics, such as social-desirability bias for self-reported responses., and how evaluations in learning outcomes, engagement and usability can be conducted.  how children’s sSelf-reports couldand addressing the issue of socially desirable responding answers; qualitative observations; quantitative measures; design-based research paradigm.
+How do we evaluate learning technologies for children? This session will introduce both inspection and empirical evaluation methods commonly used in the field of HCI, e.g., heuristic evaluations, cognitive walkthroughs, observations/ethnograph, usability tests, and controlled experiments. We will cover strengths and weaknesses of different evaluation metrics, such as social-desirability bias for self-reported responses, and how to evluate learning outcomes, engagement and usability. We will also discuss qualitative observations, quantitative measures and design-based research paradigm.
 
 Readings:
 1. [Schwarz, Norbert. "Self-reports: How the questions shape the answers." American psychologist 54.2 (1999): 93.](https://www.dropbox.com/s/9phxdfdft4egdck/schwartz-2016-self-reports-how-questions-shape-the-answers.pdf?dl=0)
@@ -259,8 +259,8 @@ This class will be used to go deeper into a topic of students' choice, or an imp
 ***
 
 ##### Final project reports (*Hard deadline: 05/10):
-1. In document format (.docx/.pages/.pdf), submit your final project reports in the [Projects Folder](https://drive.google.com/drive/folders/1E4UnXYTTF2Iuz2-YE4-RhW8X85OsyetZ?usp=sharing). Include your supplementary materials, prototypes, videos, testing protocol in the same folder and hyperlink them in the report. 
-###### Sections: 
+In document format (.docx/.pages/.pdf), submit your final project reports in the [Projects Folder](https://drive.google.com/drive/folders/1E4UnXYTTF2Iuz2-YE4-RhW8X85OsyetZ?usp=sharing). Include your supplementary materials, prototypes, videos, testing protocol in the same folder and hyperlink them in the report. 
+##### Sections: 
 1. **Introduction**: Describe your project area, why it is important, summarize your work, and how it contributes to the area
 2. **Background**: Describe the literature in areas releavnt to your project. Example, if your project is about games for sustainability, describe how games help with behavior change, and intervention for promoting sustainability. Also describe other related projects and research attempting similar work. Then, describe how your work is unique and fills the gap in literature. 
 3. **Prototype**: Describe your prototype in its final stage. Give a detail explanation of each feature. 
